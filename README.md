@@ -2,8 +2,7 @@ Hi, I'm Flavio 😃
 
 I am a computer engineering student with a passion for coding, curious about technology (love to open electronic stuff and try to fix them) and learning new tech stuff.
 
-Languages and Skills: CSS, HTML, JS, C++, Java, SQL and a certificate for technical assistance and computer maintenance.
-
+Languages and Skills: CSS, HTML, JS, Ruby on Rails, SQL and a certificate for technical assistance and computer maintenance.
 
 Find me in linkedin: <br>
 <a href="https://www.linkedin.com/in/fl%C3%A1vio-de-oliveira-neto/" rel="nofollow" target="_blank">
